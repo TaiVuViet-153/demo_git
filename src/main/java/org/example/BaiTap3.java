@@ -23,6 +23,8 @@ public class BaiTap3 {
         double averageScore = averageScore(mathScore, physicScore, chemistryScore);
         String evaluation = evaluation(averageScore);
         System.out.println(evaluation);
+
+        System.out.println("Hello World !!");
     }
 
     static double averageScore (double mathScore,double physicScore, double chemistryScore) {
