@@ -25,6 +25,8 @@ public class BaiTap3 {
         System.out.println(evaluation);
 
         System.out.println("Hello World !!");
+
+        System.out.println("Hello World2 !!");
     }
 
     static double averageScore (double mathScore,double physicScore, double chemistryScore) {
